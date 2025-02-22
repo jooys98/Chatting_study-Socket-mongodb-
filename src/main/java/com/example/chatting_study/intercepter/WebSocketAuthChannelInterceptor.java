@@ -1,4 +1,4 @@
-package com.himedia.luckydokiapi.interceptor;
+package com.example.chatting_study.intercepter;
 
 import com.example.chatting_study.security.JWTUtil;
 
